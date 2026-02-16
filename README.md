@@ -1,2 +1,14 @@
 # python-basics
-Fundamentos básicos de python: condicionales, loops, listas, funciones, archivos y POO.
+Este repositorio contiene mis ejercicios y prácticas de Python mientras aprendo programación.
+
+## Contenido
+- Variables y tipos de datos
+- Condicionales
+- Ciclos
+- Listas y diccionarios
+- Funciones
+- Manejo de archivos
+- Programación orientada a objetos
+
+## Objetivo
+Aprender Python desde cero y mejorar mi lógica de programación.
